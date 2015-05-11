@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/changePass.png</file>
+        <file>images/clear.png</file>
+        <file>images/config.png</file>
+        <file>images/decrypt.png</file>
+        <file>images/encrypt.png</file>
+        <file>images/exit.png</file>
+        <file>images/help.png</file>
+        <file>images/pes.png</file>
+        <file>images/remove.png</file>
+    </qresource>
+</RCC>
